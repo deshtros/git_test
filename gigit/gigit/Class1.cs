@@ -6,7 +6,7 @@ namespace gigit
     {
         public Gitgit()
         {
-            Console.WriteLine("B");
+            Console.WriteLine("C");
         }
     }
 }
